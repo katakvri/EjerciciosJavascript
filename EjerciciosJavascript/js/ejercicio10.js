@@ -19,4 +19,6 @@ function palindrome(string) {
 
 console.log(palindrome("ojo"));
 
-console.log(palindrome("Amor a Roma"))
+console.log(palindrome("Amor a Roma"));
+
+console.log(palindrome("La ruta nos aporto otro paso natural"));
